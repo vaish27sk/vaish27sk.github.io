@@ -4,9 +4,9 @@ This is a resume and CV theme for Bootstrap created by [Start Bootstrap](http://
 
 ## Preview
 
-[![Resume Preview](https://raw.githubusercontent.com/vendhana03/vendhana03.github.io/master/img/preview.png)](https://vendhana03.github.io/)
+[![Resume Preview](https://raw.githubusercontent.com/vaish27sk/vaish27sk.github.io/master/img/preview.png)](https://vaish27sk.github.io/)
 
-**[View Live Preview](https://vendhana03.github.io/)**
+**[View Live Preview](https://vaish27sk.github.io/)**
 
 ## Status
 
