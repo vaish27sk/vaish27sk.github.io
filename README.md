@@ -4,7 +4,7 @@ This is a resume and CV theme for Bootstrap created by [Start Bootstrap](http://
 
 ## Preview
 
-[![Resume Preview](https://raw.githubusercontent.com/vaish27sk/vaish27sk.github.io/master/img/preview.png)](https://vaish27sk.github.io/)
+[![Resume Preview](https://raw.githubusercontent.com/vaish27sk/vaish27sk.github.io/master/img/preview.PNG)](https://vaish27sk.github.io/)
 
 **[View Live Preview](https://vaish27sk.github.io/)**
 
